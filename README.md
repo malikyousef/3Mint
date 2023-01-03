@@ -40,6 +40,6 @@ Execution of R / RStudio and the workflow simultaneously enables the 3Mint analy
 
 The 3Mint analysis of the molecular subtype datasets of BRCA identifies associated groups, miRNAs, CpGs and genes. The table below summarizes characteristics, including associated gene set of the top 10 groups. The miRNA, CpG and gene centric view of the summary results can be obtained via 3Mint.
 
- ![alt text](https://github.com/malikyousef/3Mint/blob/main/Images/Group_statistics.PNG?raw=true)
+ ![alt text](https://github.com/malikyousef/3Mint/blob/main/Results/Group_statistics.PNG?raw=true)
 
 

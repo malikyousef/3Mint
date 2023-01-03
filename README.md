@@ -16,12 +16,12 @@ The 3 different data sheets consist of rows and columns representing same sample
 # Set up Parameters
 
 3Mint default parameters are given below. The SetParameters node allows the users to change the parameters. 
-	Positive Correlation Threshold (Default: 0.6)
-	Negative Correlation Threshold (Default: -0.6)
-	Number of iteration (Default: 100)
-	Number of Group (Default: 10)
-	Number of iterations for Internal Rank (Default: 10)
-	Performance metric (Accuracy, Precision, Sensitivity, etc.) weight (Default for accuracy: 1.0)
+  - Positive Correlation Threshold (Default: 0.6)
+  - Negative Correlation Threshold (Default: -0.6)
+  - Number of iteration (Default: 100)
+  - Number of Group (Default: 10)
+  -	Number of iterations for Internal Rank (Default: 10)
+  -	Performance metric (Accuracy, Precision, Sensitivity, etc.) weight (Default for accuracy: 1.0)
 
 The 3Mint metanode in the main workflow contains Filter Genes, Highly correlated miRNAs (microRNAs) and CpGs (methylation data), Grouping and Group ranking metanodes. These metanodes constitute the framework of the Grouping-Scoring-Modelling Approach.
  

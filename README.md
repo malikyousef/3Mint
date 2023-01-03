@@ -6,8 +6,8 @@ defined groups of BRCA.
 # Data Preparation
 The 3 different data sheets consist of rows and columns representing same sample IDs in an order and features, respectively. The workflow created in KNIME analytics platform takes the data sheets as ‘.table’ extension files. The last column represents the class information for control and case (tumor) samples or subtypes of the disease. The binary class information should be defined as string. 
 
-  -The link for downloading KNIME: https://www.knime.com/downloads
-  -For more information about the Knime platform, please visit https://www.knime.com/software-overview
+  - The link for downloading KNIME: https://www.knime.com/downloads
+  - For more information about the Knime platform, please visit https://www.knime.com/software-overview
 
 # 3Mint Main Workflow
  

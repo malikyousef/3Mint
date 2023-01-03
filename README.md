@@ -11,7 +11,7 @@ The 3 different data sheets consist of rows and columns representing same sample
 
 # 3Mint Main Workflow
  
- ![alt text](https://github.com/malikyousef/3Mint/blob/main/Images/3mint main workflow.PNG?raw=true)
+ ![alt text](https://github.com/malikyousef/3Mint/blob/main/Images/3mint_main_workflow.PNG?raw=true)
  
 # Set up Parameters
 

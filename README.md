@@ -25,8 +25,7 @@ The 3 different data sheets consist of rows and columns representing same sample
 
 The 3Mint metanode in the main workflow contains Filter Genes, Highly correlated miRNAs (microRNAs) and CpGs (methylation data), Grouping and Group ranking metanodes. These metanodes constitute the framework of the Grouping-Scoring-Modelling Approach.
  
- 
- 
+  ![alt text](https://github.com/malikyousef/3Mint/blob/main/Images/GSM_approach_in_3Mint.PNG?raw=true)
  
 # The Environment Settings of 3Mint
 After installing KNIME Analytics platform, 3Mint workflow is downloaded and imported into the KNIME. The workflow contains R scripts therefore the following commands should be followed to prevent errors.
